@@ -110,7 +110,12 @@ namespace AutoClicker
 
         }
 
-        private void StartBTN_Click(object sender, RoutedEventArgs e) { ClickDelay(); }
+        private void StartBTN_Click(object sender, RoutedEventArgs e)
+        {
+            clickInterval = Convert.ToInt32(CPSBox.Text);
+            clickDelay = Convert.ToInt32(DelayBox.Text);
+            ClickDelay();
+        }
 
         async Task ClickDelay()
         {
