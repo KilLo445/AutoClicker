@@ -20,6 +20,8 @@
   [![Forks][forks-shield]][forks-url]
   [![Stargazers][stars-shield]][stars-url]
   [![Issues][issues-shield]][issues-url]
+  <br />
+  [![Downloads][dl-shield]][latest]
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -42,7 +44,7 @@ This is a very simple auto clicker written in C# using WPF, mainly made to chall
 
 ### Installation
 
-1. Head over to the [latest release](https://github.com/KilLo445/AutoClicker/releases/latest)
+1. Head over to the [latest release](latest)
 2. Download and run `AutoClicker.exe`
 3. Set your interval, hotkey, delay and click start!
 
@@ -71,6 +73,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [.NET]: https://img.shields.io/badge/.NET_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [Framework]: https://img.shields.io/badge/.NET_Framework-4.8-purple
 [framework-url]: https://dotnet.microsoft.com/en-us/download/dotnet-framework
+[dl-shield]: https://img.shields.io/github/downloads/KilLo445/AutoClicker/total?style=for-the-badge&label=Downloads&color=2E3440
+[latest]: https://github.com/KilLo445/AutoClicker/releases/latest
 
 <!-- README Template -->
 <!-- https://github.com/othneildrew/Best-README-Template -->
