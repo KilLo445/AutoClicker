@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help NFSPatcher improve
+about: Create a report to help AutoClicker improve
 title: "[Bug Report] Simple description of the bug"
 labels: bug
 assignees: ''

@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for NFSPatcher
+about: Suggest an idea for AutoClicker
 title: "[Feature Req] Simple description of your request"
 labels: enhancement
 assignees: ''
