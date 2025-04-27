@@ -44,7 +44,7 @@ This is a very simple auto clicker written in C# using WPF, mainly made to chall
 
 ### Installation
 
-1. Head over to the [latest release](latest)
+1. Head over to the [latest release](https://github.com/KilLo445/AutoClicker/releases/latest)
 2. Download and run `AutoClicker.exe`
 3. Set your interval, hotkey, delay and click start!
 
